@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a3093&height=220&section=header&text=Roshan%20Khatiwada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<img src="./banner.svg" width="100%" />
 
 </div>
 
@@ -112,10 +112,11 @@ Containerizing services with Docker, wiring CI/CD for automated builds and zero-
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roshan-Khatiwada&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/github/followers/Roshan-Khatiwada?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roshan-Khatiwada&label=Public%20Repos&query=public_repos&style=for-the-badge&color=6a3093" />
 </p>
 
 ### 📊 GitHub Stats
