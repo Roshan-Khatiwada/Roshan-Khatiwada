@@ -117,21 +117,13 @@ Containerizing services with Docker, wiring CI/CD for automated builds and zero-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Roshan-Khatiwada?label=Followers&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roshan-Khatiwada&label=Public%20Repos&query=public_repos&style=for-the-badge&color=6a3093" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roshan-Khatiwada&label=Following&query=following&style=for-the-badge&color=16a34a" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Khatiwada&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan-Khatiwada&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Khatiwada&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan-Khatiwada&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 <div align="center">
