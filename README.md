@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="./banner.png" width="80%" />
 
-</div>
+</div> -->
 
 ### 🔗 Connect with me
 
