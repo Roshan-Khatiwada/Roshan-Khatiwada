@@ -111,7 +111,7 @@ Docker containers, CI/CD for automated builds and zero-downtime rolling deploys,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Khatiwada&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Khatiwada&layout=compact&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
