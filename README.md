@@ -106,12 +106,12 @@ Docker containers, CI/CD for automated builds and zero-downtime rolling deploys,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Khatiwada&show_icons=true&theme=dark&count_private=true&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Roshan-Khatiwada&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Khatiwada&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Roshan-Khatiwada&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Khatiwada&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Khatiwada&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
